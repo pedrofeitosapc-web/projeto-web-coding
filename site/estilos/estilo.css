@@ -1,0 +1,135 @@
+body {
+  background-image: url("../imagens/fundo2.png");
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  position: relative;
+  min-height: 100vh;
+}
+
+.imagem-canto {
+    position: fixed; 
+    bottom: 70%;    
+    right: 80%;     
+    width: 400px;     
+    z-index: 1000;   
+  }
+
+table {
+border-collapse: collapse;
+width: 20%;
+margin-left: auto; margin-right: auto;
+}
+
+th, td{
+padding: 22px;
+}
+
+.btn {
+  position: absolute;   
+  padding: 2px 6px;   
+  border: none;
+  font-size: 20px;
+  cursor: pointer;   
+  text-decoration: none; 
+  color: white; 
+  text-shadow: 
+   0 0 10px #bc13fe;
+}
+
+.pos-0 {
+    font-family: "MedievalSharp", cursive;
+     font-weight: bold;
+}
+
+.pos-1 {
+    font-family: "MedievalSharp", cursive;
+    font-weight: bold;
+}
+
+.pos-2 { 
+    font-family: "MedievalSharp", cursive;
+     font-weight: bold;
+}
+
+.pos-3 {
+    font-family: "MedievalSharp", cursive;
+     font-weight: bold;
+}
+
+.pos-4 {
+    font-family: "MedievalSharp", cursive;
+     font-weight: bold;
+}
+
+.pos-5 {
+    font-family: "MedievalSharp", cursive;
+     font-weight: bold;
+}
+
+.pos-6 {
+    font-family: "MedievalSharp", cursive;
+     font-weight: bold;
+}
+
+.pos-7 {  
+    font-family: "MedievalSharp", cursive;
+     font-weight: bold;
+}
+
+.pos-8 { 
+    font-family: "MedievalSharp", cursive;
+     font-weight: bold;
+}
+
+.pos-9 {  
+    font-family: "MedievalSharp", cursive;
+     font-weight: bold;
+}
+
+.pos-10 {  
+    font-family: "MedievalSharp", cursive;
+     font-weight: bold;
+}
+
+.pos-11 { 
+    font-family: "MedievalSharp", cursive;
+     font-weight: bold;
+}
+
+.pos-12 {  
+    font-family: "MedievalSharp", cursive;
+     font-weight: bold;
+}
+
+.pos-13 {
+    font-family: "MedievalSharp", cursive;
+     font-weight: bold;
+}
+
+.pos-14 {
+    font-family: "MedievalSharp", cursive;
+     font-weight: bold;
+}
+
+.pos-15 {
+    font-family: "MedievalSharp", cursive;
+     font-weight: bold;
+}
+
+.pos-16 {
+    font-family: "MedievalSharp", cursive;
+     font-weight: bold;
+}
+
+.pos-17 {  
+    font-family: "MedievalSharp", cursive;
+     font-weight: bold;
+}
+
+
+
+
+
+
